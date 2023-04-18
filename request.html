@@ -8,93 +8,9 @@
    if (navigator.platform.toUpperCase().indexOf('MAC')>=0) {
       document.querySelector("html").classList.add("isMac")
    }
-</script> <style>.loadingAnimation {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      z-index: 99999;
-   }
-   .loadingAnimation.hide {
-      opacity: 0;
-      pointer-events: none;
-      display: none;
-   }
-   .loadingAnimation .circle {
-      position: fixed;
-      width: 40rem;
-      height: 40rem;
-      border-radius: 100%;
-      background-color: #655B50;
-      left: 50%;
-      top: 50%;
-      transform: translateY(-50%) translateX(-50%) scale(7);
-   }
-   .loadingAnimation .textContent {
-      position: fixed;
-      width: 100vw;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-      align-content: center;
-   }
-   .loadingAnimation .textContent .text1 {
-      width: 100%;
-      text-align: center;
-   }
-   .loadingAnimation .textContent .h1 {
-      opacity: 0;
-      transition: 0.8s all;
-   }
-   .loadingAnimation .rightPattern {
-      position: absolute;
-      top: -11.2rem;
-      right: -18rem;
-      width: 57.8rem;
-      height: 57.8rem;
-      opacity: 0;
-   }
-   .loadingAnimation .rightPattern img {
-      width: 57.8rem;
-      height: 57.8rem;
-   }
-   .loadingAnimation .leftPattern {
-      position: absolute;
-      bottom: -18rem;
-      left: -9rem;
-      width: 46.2rem;
-      height: 46.2rem;
-      opacity: 0;
-   }
-   .loadingAnimation .leftPattern img {
-      width: 46.2rem;
-      height: 46.2rem;
-   }
-   @media (max-width: 1023px) {
-      .loadingAnimation .rightPattern {
-         top: -7.2rem;
-         right: -13rem;
-         width: 28rem;
-         height: 28rem;
-      }
-      .loadingAnimation .rightPattern img {
-         width: 28rem;
-         height: 28rem;
-      }
-      .loadingAnimation .leftPattern {
-         bottom: -4rem;
-         left: -5rem;
-         width: 16.8rem;
-         height: 18.8rem;
-      }
-      .loadingAnimation .leftPattern img {
-         width: 18.8rem;
-         height: 18.8rem;
-      }
-   }
+</script> 
+	<style>
+	
 </style> <div class="loadingAnimation"> <div class="circle"></div> <div class="rightPattern"> 
    <picture> <source srcset="../../../fileadmin/templates/images/patterns/silena-kreis580.png" media="(min-width: 2000px)"> 
       <source srcset="../../../fileadmin/templates/images/patterns/silena-kreis250.png" media="(min-width: 1400px)">
