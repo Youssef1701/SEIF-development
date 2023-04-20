@@ -350,7 +350,7 @@ input.f3-form-error {
   font-size: 2.5rem;
   line-height: 160%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   pointer-events: auto;
   color: #d5c7a3;
@@ -385,7 +385,7 @@ input.f3-form-error {
   font-size: 1.3rem;
   line-height: 192%;
   letter-spacing: 0.05em;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   padding-left: 2rem;
 }
 .tx-exthotel
@@ -1454,7 +1454,7 @@ body .cc-compliance.cc-highlight {
   position: relative;
 }
 body .cc-window a {
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
 }
 body a.cc-btn.cc-allow-all.cc-w-100 {
   width: 50% !important;
@@ -1945,23 +1945,23 @@ sup {
     font-size: 0.52548607vw !important;
   }
 }
-@font-face {
-  font-family: "siena";
+/* @font-face {
+  font-family: "Tajawal";
   font-weight: 400;
-  src: url("../../../fileadmin/templates/fonts/Siena-Regular.woff2")
+  src: url("../../../fileadmin/templates/fonts/Tajawal-Regular.woff2")
       format("woff2"),
-    url("../../../fileadmin/templates/fonts/Siena-Regular.woff") format("woff");
+    url("../../../fileadmin/templates/fonts/Tajawal-Regular.woff") format("woff");
   font-display: swap;
-}
+} */
 @font-face {
-  font-family: "opensans";
+  font-family: "Tajawal";
   font-weight: 400;
-  src: url("../../../fileadmin/templates/fonts/OpenSans-Regular.ttf")
+  src: url("../../../fileadmin/templates/fonts/Tajawal-Regular.ttf")
     format("truetype");
   font-display: swap;
 }
 body {
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-size: 3.5rem;
   line-height: 129%;
   letter-spacing: 0em;
@@ -1979,7 +1979,7 @@ h1,
   font-size: 8rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -1996,7 +1996,7 @@ h2,
   font-size: 8rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -2024,7 +2024,7 @@ h3,
 }
 a {
   color: #d5c7a3;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-decoration: none;
 }
@@ -2222,7 +2222,7 @@ body:not(#uid1) main > div:first-of-type > div {
   margin-right: 2rem;
   white-space: nowrap;
   text-transform: uppercase;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.6rem;
   opacity: 0.3;
@@ -2256,7 +2256,7 @@ body#uid7 main h1 {
   margin-top: 10rem;
   text-transform: uppercase;
   letter-spacing: 0;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 body#uid5 main h2,
@@ -2264,7 +2264,7 @@ body#uid6 main h2,
 body#uid7 main h2 {
   margin-top: 7.5rem;
   margin-bottom: 1.5rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 3rem;
   line-height: 133%;
@@ -2283,7 +2283,7 @@ body#uid5 main p,
 body#uid6 main p,
 body#uid7 main p {
   margin-bottom: 1.5rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.8rem;
   line-height: 156%;
@@ -2297,7 +2297,7 @@ body#uid6 main ol,
 body#uid7 main ol {
   margin-bottom: 1.5rem;
   margin-top: 0;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.8rem;
   line-height: 156%;
@@ -2423,7 +2423,7 @@ main .aa-voucher-widget {
   letter-spacing: 0;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #d5c7a3;
   border: none;
@@ -2469,7 +2469,7 @@ main .aa-voucher-widget {
   margin-bottom: 29rem;
 }
 #click-to-pay {
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   background-color: #eae3d1;
   padding: 6rem;
   max-width: 100%;
@@ -2597,7 +2597,7 @@ main .aa-voucher-widget {
   font-size: 14px;
   line-height: 16px;
   color: #9a8b7d;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 768px) {
   #click-to-pay .input {
@@ -2879,7 +2879,7 @@ main .aa-voucher-widget {
   padding-right: 1rem;
 }
 #uid95 .layout-0 > ul > li > a {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.9rem;
   text-decoration: none;
@@ -3169,7 +3169,7 @@ header#hea_003 .fixedContainer {
   line-height: 160%;
   letter-spacing: 0em;
   text-transform: uppercase;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #655b50;
   z-index: 149;
@@ -3185,7 +3185,7 @@ header#hea_003 .fixedContainer a {
   font-size: 2.5rem;
   line-height: 160%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   color: #655b50;
@@ -3355,7 +3355,7 @@ header#hea_003 .menuOuter #menu > .ul > .li > .innerWrapper > a {
   font-size: 6rem;
   line-height: 167%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 @media (max-width: 1023px) {
@@ -3448,7 +3448,7 @@ header#hea_003 .menuOuter .submenu a {
   line-height: 250%;
   letter-spacing: 0.15em;
   line-height: 170%;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 @media (max-width: 1023px) {
@@ -3662,7 +3662,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 2.5rem;
   line-height: 160%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 @media (max-width: 1023px) {
@@ -3877,7 +3877,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   padding-bottom: 12rem;
 }
 .mask_colorelement .lowerSection.hasText .textContent .infos .text {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_colorelement .lowerSection.hasText .textContent .infos .author {
@@ -4051,7 +4051,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   height: 100vh;
 }
 .mask_fullscreenmedia .fullscreenmedia-inner .title {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: white;
   z-index: 2;
@@ -4235,7 +4235,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   align-items: flex-end;
   align-content: flex-end;
   padding-bottom: 25.4rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_textteaser .section a {
@@ -4355,7 +4355,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 2.5rem;
   line-height: 160%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 @media (max-width: 1023px) {
@@ -4536,13 +4536,13 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
 .mask_text .text {
   grid-column-start: 1;
   grid-column-end: 9;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_text .text a {
   text-decoration: underline;
   text-decoration-thickness: from-font;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 3.5rem;
   line-height: 129%;
@@ -4603,7 +4603,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 8rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   margin-bottom: 3rem;
@@ -4688,7 +4688,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   letter-spacing: 0;
   padding: 0 12rem;
   text-align: center;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 @media (max-width: 1023px) {
@@ -4966,7 +4966,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   grid-column-start: 2;
   grid-column-end: 14;
   margin-bottom: 14rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_additiveofferdetail .textContent .time,
@@ -4974,7 +4974,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 1.8rem;
   line-height: 139%;
   letter-spacing: 0.15em;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 @media (max-width: 1023px) {
@@ -5012,14 +5012,14 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   grid-column-start: 2;
   grid-column-end: 10;
   margin-bottom: 15rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_additiveofferdetail .inclusiveservices {
   grid-column-start: 2;
   grid-column-end: 10;
   margin-bottom: 18rem;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_additiveofferdetail .inclusiveservices ul li {
@@ -5044,7 +5044,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 8rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -5307,7 +5307,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   font-size: 2.5rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   opacity: 0.3;
   margin-bottom: 1.5rem;
@@ -5347,7 +5347,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
 .mask_additivetreatments .accordion {
   grid-column-start: 7;
   grid-column-end: 14;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   padding: 4.5rem 0;
   border-top: 1px solid #d5c7a3;
@@ -5411,7 +5411,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   transform: translateY(-0.2rem);
 }
 .mask_additivetreatments .accordion .description {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.5rem;
   line-height: 160%;
@@ -5514,7 +5514,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   display: flex;
   -webkit-align-items: flex-end;
   align-items: flex-end;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.4rem;
   line-height: 100%;
@@ -5528,7 +5528,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
 .tx-powermail .powermail_fieldwrap_angebote .activeItem {
   margin-top: 0.5rem;
   cursor: pointer;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-size: 2.4rem;
   padding-right: 2rem;
   position: relative;
@@ -5581,7 +5581,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
 }
 .tx-powermail .powermail_fieldwrap_angebote .otherItemContainer .item {
   cursor: pointer;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.4rem;
   line-height: 142%;
@@ -5624,7 +5624,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
 }
 .tx-powermail .add,
 .tx-powermail .remove {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.7rem;
 }
@@ -5682,7 +5682,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   display: flex;
   -webkit-align-items: flex-end;
   align-items: flex-end;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.4rem;
   line-height: 100%;
@@ -5757,7 +5757,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   text-transform: none;
   font-weight: 400;
   border-radius: 0;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400 !important;
   font-size: 2.4rem;
   line-height: 142%;
@@ -5990,7 +5990,7 @@ header#hea_003.showMenu .menuOuter .li.hassub.open .submenu {
   grid-row-start: 5;
 }
 .tx-powermail .powermail_fieldwrap.powermail_fieldwrap_submit button {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .tx-powermail .powermail_fieldwrap.powermail_fieldwrap_period_second {
@@ -8648,7 +8648,7 @@ html:not(.browser-ie)
 a.select-target {
   text-decoration: none !important;
   color: #d5c7a3 !important;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
 }
 a.select-target:after {
   display: none;
@@ -8675,7 +8675,7 @@ a.select-target:after {
   padding: 0 3rem 0 0;
   background-color: transparent;
   text-transform: none;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-weight: 400 !important;
   font-size: 2.4rem;
@@ -8797,7 +8797,7 @@ a.select-target:after {
   overflow: hidden;
   text-align: left;
   text-overflow: ellipsis;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-weight: 300;
   font-size: 2.4rem;
@@ -8882,7 +8882,7 @@ a.select-target:after {
   font-size: 2.5rem;
   line-height: 100%;
   letter-spacing: 0em;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   opacity: 0.3;
   margin-bottom: 1.5rem;
@@ -8932,7 +8932,7 @@ a.select-target:after {
   cursor: pointer;
 }
 .mask_gallery .linkContainer .bigLink {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_gallery .sliderContainer {
@@ -9056,7 +9056,7 @@ a.select-target:after {
 .mask_accordion .accordion {
   grid-column-start: 7;
   grid-column-end: 14;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   padding: 4.5rem 0;
   border-top: 1px solid #d5c7a3;
@@ -9097,7 +9097,7 @@ a.select-target:after {
   margin-top: 5rem;
 }
 .mask_accordion .accordion .linkContainer a {
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   text-decoration: underline;
   font-size: 1.8rem;
@@ -9130,7 +9130,7 @@ a.select-target:after {
   }
 }
 .mask_accordion .accordion .description {
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 2.5rem;
   line-height: 160%;
@@ -9280,7 +9280,7 @@ a.select-target:after {
   letter-spacing: 0em;
   text-transform: uppercase;
   line-height: 125%;
-  font-family: "siena", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 .mask_presse .presseitem a {
@@ -9443,7 +9443,7 @@ footer#foo_034 .leftSide .langmenu .current {
   text-decoration: none;
 }
 footer#foo_034 .leftSide a {
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   text-decoration: underline;
 }
 footer#foo_034 .leftSide a:hover {
@@ -9591,7 +9591,7 @@ footer#foo_034 .lowerFooter .footerContent a {
   font-size: 1.8rem;
   line-height: 139%;
   letter-spacing: 0.15em;
-  font-family: "opensans", Helvetica, Arial, sans-serif;
+  font-family: "Tajawal", Helvetica, Arial, sans-serif;
   color: #655b50;
   text-transform: uppercase;
   text-decoration: underline;
